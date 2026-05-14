@@ -109,7 +109,7 @@ me.say_hi()
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lostxmusafir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lostxmusafir&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&custom_title=DREAM%27s%20Growth%20Journey%20%F0%9F%9A%80" alt="activity graph"/>
 </p>
 
 ---
