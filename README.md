@@ -88,7 +88,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lostxmusafir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
+  <img src="./trophies.png" alt="trophies"/>
 </p>
 
 ---
@@ -96,12 +96,10 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=lostxmusafir&cc=0D1117&tc=00D4FF&ic=00D4FF&bc=0D1117" alt="stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=lostxmusafir&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="streak"/>
+  <img width="49%" src="./stats.png" alt="stats"/>
+  <img width="49%" src="./streak.png" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lostxmusafir&theme=tokyonight" alt="profile summary"/>
 </p>
 
 ---
