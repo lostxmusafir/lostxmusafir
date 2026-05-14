@@ -96,12 +96,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lostxmusafir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="stats"/>
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=lostxmusafir&cc=0D1117&tc=00D4FF&ic=00D4FF&bc=0D1117" alt="stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=lostxmusafir&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostxmusafir&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lostxmusafir&theme=tokyonight" alt="profile summary"/>
 </p>
 
 ---
