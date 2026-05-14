@@ -99,9 +99,6 @@ me.say_hi()
   <img width="49%" src="./stats.png" alt="stats"/>
   <img width="49%" src="./streak.png" alt="streak"/>
 </p>
-
-</p>
-
 ---
 
 ## 📈 Contribution Graph
